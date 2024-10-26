@@ -2,7 +2,7 @@
 
 ## Brief overview :memo:
 
-This repository consists of a collection of classic arcade games, that will be first written in C then Assembly for curiosity and learning purposes. Preserving my nostalgia of classic arcade games and remembering times that were simpler.
+This repository consists of a collection of classic arcade games, that will be first written in C++ then C then Assembly to understand the abstraction layers and develop an appreciation for modern tools. Preserving my nostalgia of classic arcade games and remembering times that were simpler. 
 
 ## Context :chart_with_upwards_trend:
 
