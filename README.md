@@ -38,6 +38,9 @@ The first game planned at the moment is pong.
   ```
     cl /EHsc test.cpp
   ```
+  ```
+    cl test.c
+  ```
 
 ## Acknowledgments :clap:
 
