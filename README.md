@@ -25,6 +25,7 @@ The first game planned at the moment is pong.
 - Programming Language
   - The project uses the Microsoft C/C++ compiler to compile the code.
   - The code is written in C++14 Standard
+  - The code is also written in C90
 
 ## Building Instructions :hammer:
 
