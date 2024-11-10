@@ -2,7 +2,7 @@
 
 ## Brief overview :memo:
 
-This repository consists of a collection of classic arcade games, that will be first written in C++ then C then Assembly to understand the abstraction layers and develop an appreciation for modern tools. Preserving my nostalgia of classic arcade games and remembering times that were simpler. 
+This repository consists of a collection of classic arcade games, that will be first written in C# then C then Assembly to understand the abstraction layers and develop an appreciation for modern tools. Preserving my nostalgia of classic arcade games and remembering times that were simpler. 
 
 ## Context :chart_with_upwards_trend:
 
@@ -14,7 +14,7 @@ The games will consist of nostalgic arcade games.
 
 ## Games :video_game:
 
-The first game planned at the moment is pong.
+The first game planned at the moment is HangTran (HangMan but inclusive).
 
 ## Technical Details :wrench:
 
@@ -35,11 +35,18 @@ The first game planned at the moment is pong.
     link /subsystem:console /entry:start test.obj
   ```
 - Programming Language
-  ```
-    cl /EHsc test.cpp
-  ```
+  C
   ```
     cl test.c
+  ```
+- Full Stack
+  C#
+  ```
+    dotnet run Program.cs
+  ```
+  Frontend
+  ```
+    Haven't decided
   ```
 
 ## Acknowledgments :clap:
