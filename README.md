@@ -44,9 +44,9 @@ The first game planned at the moment is HangTran (HangMan but inclusive).
   ```
     dotnet run Program.cs
   ```
-  Frontend
+  HTML/HTMX/CSS
   ```
-    Haven't decided
+    A browser will load for you.
   ```
 
 ## Acknowledgments :clap:
