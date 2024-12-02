@@ -1,4 +1,4 @@
-# ARCADE :joystick:
+# ARCADE ALPHA :joystick:
 
 ## Brief overview :memo:
 
